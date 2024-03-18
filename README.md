@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trat1100" alt="trat1100" /></a> </p>
 
-- 🔭 I’m currently working on [NorthDevelopement](https://github.com/northdevelopment)
-
-- 🌱 I’m currently working on improving my skills **on Java**
-
-- 👨‍💻 All of my projects are available at [https://trat.tech](https://trat.tech)
-
 - 💬 Ask me about **Python, Java and Java Script.**
 
 - 📫 How to reach me **hello@trat.tech**
